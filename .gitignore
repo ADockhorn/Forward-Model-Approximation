@@ -1,23 +1,64 @@
-# Compiled class file
+# Mac
+.DS_Store
+
+# Maven
+log/
+target
+out/
+/bin
+/build/classes/
+/build/dist/
+production/
+
+*.ipr
+*.xml
+*.html
+*.gif
+*.pyc
 *.class
 
-# Log file
-*.log
+clients/GVGAI-JavaClient/src/sampleRandom.zip
 
-# BlueJ files
-*.ctxt
+clients/GVGAI-JavaClient/server-out/*
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+clients/GVGAI-JavaClient/logs/output_server_redirect_err.txt
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+clients/GVGAI-JavaClient/logs/output_server_redirect.txt
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+clients/GVGAI-JavaClient/src/logs/output_server_redirect_err.txt
+
+clients/GVGAI-PythonClient/src/sources.txt
+
+clients/GVGAI-PythonClient/src/logs/output_server_redirect_err.txt
+
+clients/GVGAI-JavaClient/src/sources.txt
+
+clients/GVGAI-JavaClient/src/logs/output_server_redirect.txt
+
+clients/GVGAI-JavaClient/src/logs/clientLog.txt
+
+clients/GVGAI-JavaClient/sources.txt
+
+clients/GVGAI-JavaClient/logs/clientLog.txt
+
+clients/GVGAI-PythonClient/src/logs/output_server_redirect.txt
+
+clients/GVGAI-PythonClient/src/logs/clientLog.txt
+
+#Super secret folder with private games, in the privte repository
+examples/super_secret
+*.aux
+
+*.bbl
+
+*.blg
+
+Paper/cig2018/CIG2018\.synctex\.gz
+
+clients/GVGAI-JavaClient/transactions\.csv
+
+clients/GVGAI-JavaClient/GVGAI-JavaClient.iml
+
+gvgai-learning.iml
+
+clients/GVGAI-JavaClient/results/.idea/results.iml
