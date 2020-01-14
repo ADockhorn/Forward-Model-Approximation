@@ -1,0 +1,103 @@
+20
+10
+true
+Server process started [OK]
+Agent name:worldModelAgent.PlaytraceAgent
+Client connected to server [OK]
+Starting to play [OK]
+Agent set to use reasoning mode: MCTS
+Training run ended with score 1.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score 0.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score 0.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score 2.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score 2.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score 5.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score 1.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score 0.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score 0.0
+######## KB extraction has started! ########
+return learning level 0
+Agent set to use reasoning mode: MCTS
+######## KB extraction finished during level! Performing ESCAPE... ########
+######## KB extraction has finished! ########
+### Evaluation running: ###
+Training run ended with score 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+1; 0.0; Tick: 2000; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 0.0; Mean Ticks: 2000.0; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+2; 3.0; Tick: 379; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.5; Mean Ticks: 1189.5; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+3; 0.0; Tick: 2000; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.0; Mean Ticks: 1459.6666; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+4; 0.0; Tick: 63; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 0.75; Mean Ticks: 1110.5; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+5; 1.0; Tick: 2000; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 0.8; Mean Ticks: 1288.4; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+6; 0.0; Tick: 120; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 0.6666667; Mean Ticks: 1093.6666; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+7; 2.0; Tick: 133; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 0.85714287; Mean Ticks: 956.4286; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+8; 5.0; Tick: 2000; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.375; Mean Ticks: 1086.875; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+9; 1.0; Tick: 187; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.3333334; Mean Ticks: 986.8889; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+10; 1.0; Tick: 2000; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.3; Mean Ticks: 1088.2; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+11; 2.0; Tick: 624; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.3636364; Mean Ticks: 1046.0; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+12; 0.0; Tick: 2000; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.25; Mean Ticks: 1125.5; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+13; 0.0; Tick: 68; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.1538461; Mean Ticks: 1044.1538; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+14; 4.0; Tick: 296; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.3571428; Mean Ticks: 990.7143; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+15; 1.0; Tick: 1508; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.3333334; Mean Ticks: 1025.2; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+16; 3.0; Tick: 1200; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.4375; Mean Ticks: 1036.125; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+17; 1.0; Tick: 171; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.4117647; Mean Ticks: 985.2353; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+18; 5.0; Tick: 575; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.6111112; Mean Ticks: 962.44446; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: MCTS
+19; 2.0; Tick: 1420; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.6315789; Mean Ticks: 986.5263; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: MCTS
+20; 3.0; Tick: 1887; Winner:PLAYER_LOSES; Mode: MCTS; Mean Score: 1.7; Mean Ticks: 1031.55; Win Rate: 0.0
+return evaluation level 3
+
+ 	 --> Real execution time: 29 minutes, 19 seconds of wall time.

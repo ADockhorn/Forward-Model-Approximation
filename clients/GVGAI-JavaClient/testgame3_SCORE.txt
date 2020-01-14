@@ -1,0 +1,5 @@
+Score0_0 [0.875]
+
+
+c_AboveOfP5 ^ c_Action4 => Score1_0 [1.0]
+c_Action5 ^ c_BelowOfP5 => Score1_0 [1.0]

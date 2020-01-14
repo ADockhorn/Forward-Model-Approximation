@@ -1,0 +1,15 @@
+PosX0___PosY0 [0.6549773755656109]
+
+c_Action4 => PosX0___PosY-1 [0.852]
+c_Action2 => PosX1___PosY0 [1.0]
+c_Action5 => PosX0___PosY1 [0.9798994974874372]
+c_Action3 => PosX-1___PosY0 [0.9219409282700421]
+
+c_AboveOfP2 ^ c_Action3 => PosX0___PosY0 [1.0]
+c_AboveOfP2 ^ c_Action4 => PosX0___PosY0 [1.0]
+c_Action4 ^ c_BelowOfP5 => PosX0___PosY-1 [1.0]
+c_Action2 ^ c_BelowOfP2 => PosX1___PosY0 [1.0]
+c_Action5 ^ c_BelowOfP2 => PosX0___PosY0 [1.0]
+c_Action3 ^ c_LeftOfP2 => PosX0___PosY0 [1.0]
+c_Action4 ^ c_RightOfP4 => PosX0___PosY-1 [1.0]
+c_Action3 ^ c_RightOfP2 => PosX0___PosY0 [1.0]

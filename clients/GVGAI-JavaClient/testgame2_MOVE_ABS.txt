@@ -1,0 +1,9 @@
+PosX0___PosY0 [0.9833333333333333]
+
+
+
+c_Action5 ^ c_PosX4 ^ c_PosY4 => PosX0___PosY1 [1.0]
+c_Action4 ^ c_PosX4 ^ c_PosY4 => PosX0___PosY-1 [1.0]
+c_Action4 ^ c_PosX5 ^ c_PosY3 => PosX0___PosY-1 [1.0]
+c_Action3 ^ c_PosX5 ^ c_PosY3 => PosX-1___PosY0 [1.0]
+c_Action3 ^ c_PosX5 ^ c_PosY6 => PosX-1___PosY0 [1.0]

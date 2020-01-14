@@ -1,0 +1,126 @@
+20
+5
+false
+Server process started [OK]
+Agent name:worldModelAgent.PlaytraceAgent
+Client connected to server [OK]
+Starting to play [OK]
+Agent set to use reasoning mode: MCTS
+Training run ended with score 0.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score 0.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -3.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -3.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score 5.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -3.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -3.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score 7.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -1.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -3.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score 3.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -1.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -1.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score 1.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -3.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -3.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score 5.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -1.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score 0.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score -2.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -1.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -2.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score -4.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -2.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -4.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score -2.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -7.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -2.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score -4.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -2.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -4.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score -2.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -1.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -2.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score -4.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score 0.0
+return learning level 0
+Agent set to use reasoning mode: MCTS
+Training run ended with score -1.0
+return learning level 1
+Agent set to use reasoning mode: MCTS
+Training run ended with score -2.0
+return learning level 2
+Agent set to use reasoning mode: MCTS
+Training run ended with score -4.0
+return learning level 0
+
+ 	 --> Real execution time: 141 minutes, 16 seconds of wall time.

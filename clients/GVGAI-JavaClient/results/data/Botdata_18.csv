@@ -1,0 +1,9 @@
+Algorithm ; Parameter 1; Parameter 2; Parameter 3; Win-Rate ; Score; Ticks-won; Ticks-Lost
+MCTS ; 10 ; 5 ; false ; 0.0 ; 1.45 ; nan ; 1773.3
+MCTS ; 10 ; 5 ; true ; 0.0 ; 1.55 ; nan ; 1233.25
+MCTS ; 10 ; 10 ; false ; 0.0 ; 0.7 ; nan ; 1841.35
+MCTS ; 10 ; 10 ; true ; 0.0 ; 1.2 ; nan ; 1384.0
+MCTS ; 20 ; 5 ; false ; 0.0 ; 0.8 ; nan ; 1610.3
+MCTS ; 20 ; 5 ; true ; 0.05 ; 2.2 ; 1288.0 ; 1411.578947368421
+MCTS ; 20 ; 10 ; false ; 0.0 ; 1.1 ; nan ; 1684.35
+MCTS ; 20 ; 10 ; true ; 0.0 ; 1.7 ; nan ; 1031.55

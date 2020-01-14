@@ -1,0 +1,103 @@
+100
+true
+false
+Server process started [OK]
+Agent name:worldModelAgent.PlaytraceAgent
+Client connected to server [OK]
+Starting to play [OK]
+Agent set to use reasoning mode: BFS
+Training run ended with score 0.0
+return learning level 1
+Agent set to use reasoning mode: BFS
+Training run ended with score 0.0
+return learning level 2
+Agent set to use reasoning mode: BFS
+Training run ended with score 0.0
+return learning level 0
+Agent set to use reasoning mode: BFS
+Training run ended with score 0.0
+return learning level 1
+Agent set to use reasoning mode: BFS
+Training run ended with score 0.0
+return learning level 2
+Agent set to use reasoning mode: BFS
+Training run ended with score -1.0
+return learning level 0
+Agent set to use reasoning mode: BFS
+Training run ended with score 7.0
+return learning level 1
+Agent set to use reasoning mode: BFS
+Training run ended with score 6.0
+return learning level 2
+Agent set to use reasoning mode: BFS
+Training run ended with score 0.0
+######## KB extraction has started! ########
+return learning level 0
+Agent set to use reasoning mode: BFS
+######## KB extraction finished during level! Performing ESCAPE... ########
+######## KB extraction has finished! ########
+### Evaluation running: ###
+Training run ended with score 4.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+1; 0.0; Tick: 48; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 0.0; Mean Ticks: 48.0; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+2; 0.0; Tick: 363; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 0.0; Mean Ticks: 205.5; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+3; 2.0; Tick: 12; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 0.6666667; Mean Ticks: 141.0; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+4; 6.0; Tick: 349; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.0; Mean Ticks: 193.0; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+5; 2.0; Tick: 42; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.0; Mean Ticks: 162.8; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+6; 6.0; Tick: 230; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.6666667; Mean Ticks: 174.0; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+7; 0.0; Tick: 30; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.2857144; Mean Ticks: 153.42857; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+8; 0.0; Tick: 133; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.0; Mean Ticks: 150.875; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+9; 1.0; Tick: 24; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 1.8888888; Mean Ticks: 136.77777; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+10; 0.0; Tick: 723; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 1.7; Mean Ticks: 195.4; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+11; 2.0; Tick: 36; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 1.7272727; Mean Ticks: 180.90909; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+12; 7.0; Tick: 70; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.1666667; Mean Ticks: 171.66667; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+13; 0.0; Tick: 66; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.0; Mean Ticks: 163.53847; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+14; 7.0; Tick: 248; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.357143; Mean Ticks: 169.57143; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+15; 1.0; Tick: 78; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.2666667; Mean Ticks: 163.46666; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+16; 0.0; Tick: 288; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.125; Mean Ticks: 171.25; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+17; 3.0; Tick: 7; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.1764705; Mean Ticks: 161.58824; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+18; 0.0; Tick: 50; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 2.0555556; Mean Ticks: 155.38889; Win Rate: 0.0
+return evaluation level 3
+Agent set to use reasoning mode: BFS
+19; -1.0; Tick: 78; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 1.8947369; Mean Ticks: 151.3158; Win Rate: 0.0
+return evaluation level 4
+Agent set to use reasoning mode: BFS
+20; 0.0; Tick: 100; Winner:PLAYER_LOSES; Mode: BFS; Mean Score: 1.8; Mean Ticks: 148.75; Win Rate: 0.0
+return evaluation level 3
+
+ 	 --> Real execution time: 2 minutes, 27 seconds of wall time.

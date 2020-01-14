@@ -1,0 +1,9 @@
+Score0_0 [0.9875]
+
+
+c_AboveOfP5 ^ c_Action4 => Score1_0 [1.0]
+c_Action2 ^ c_RightOfP5 => Score1_0 [1.0]
+
+c_AboveOfP3 ^ c_Action1 ^ c_OrientationDown => Score1_0 [1.0]
+c_Action1 ^ c_LeftOfP3 ^ c_OrientationLeft => Score1_0 [1.0]
+c_Action1 ^ c_OrientationRight ^ c_RightOfP3 => Score1_0 [1.0]
